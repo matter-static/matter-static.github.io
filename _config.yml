@@ -2,7 +2,7 @@
 title: Matter Inc.
 subtitle: Building what matters
 email: hello@thematter.io
-description: We help Ethereum scale
+description: We're building a scaling solution for Ethereum on Zero Knowledge Proofs
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
