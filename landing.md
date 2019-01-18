@@ -81,8 +81,8 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="https://medium.com/plasma-ignis/presenting-ignis-plasma-of-fire-502fab5a6f17" class="button next">Learn more</a></li>
-			<li><a href="https://ignis.thematter.io/#/login" class="button">Try demo</a></li>
+			<li><a href="https://medium.com/plasma-ignis/presenting-ignis-plasma-of-fire-502fab5a6f17" class="button">Learn more</a></li>
+			<li><a href="https://ignis.thematter.io/#/login" class="button next">Try demo</a></li>
 		</ul>
 	</div>
 </section>
