@@ -1,8 +1,8 @@
 # site settings
 title: Matter Inc.
-subtitle: Building the future
+subtitle: Building what matters
 email: hello@thematter.io
-description: To allow everyone in the world to pay for their morning cup of coffee with a currency that was produced and lives entirely on a public blockchain.
+description: We help Ethereum scale
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
