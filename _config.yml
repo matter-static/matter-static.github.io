@@ -1,6 +1,6 @@
 # site settings
 title: Matter Inc.
-subtitle: Building what matters
+subtitle: Future matters
 email: hello@thematter.io
 description: We're building a scaling solution for Ethereum on Zero Knowledge Proofs
 baseurl: "/" # the subpath of your site, e.g. /blog
